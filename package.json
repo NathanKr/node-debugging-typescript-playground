@@ -1,0 +1,22 @@
+{
+  "name": "debugging-typescript-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "dev": "nodemon ./src/index.ts",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/node-debugging-typescript-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/node-debugging-typescript-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/node-debugging-typescript-playground#readme"
+}
